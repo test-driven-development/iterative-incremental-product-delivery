@@ -1,0 +1,28 @@
+{
+  "name": "iterative-incremental-product-delivery",
+  "description": "Slides: Iterative and Incremental Product Delivery",
+  "main": "index.js",
+  "version": "1.0.0",
+  "engines": {
+    "node": "10.11.0",
+    "npm": "6.4.1",
+    "yarn": "1.10.1"
+  },
+  "scripts": {
+    "build": "reveal-md slides.md",
+    "deploy": "yarn build -- --static docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/test-driven-development/iterative-incremental-product-delivery.git"
+  },
+  "author": "Wil Pannell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/test-driven-development/iterative-incremental-product-delivery/issues"
+  },
+  "homepage": "https://github.com/test-driven-development/iterative-incremental-product-delivery#readme",
+  "devDependencies": {
+    "reveal-md": "2.1.2"
+  }
+}
