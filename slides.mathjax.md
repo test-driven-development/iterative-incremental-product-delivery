@@ -29,13 +29,15 @@ $$
 # Fractions
 
 $$
-      x={a \over b}
+  x={a \over b}
 $$
 
 <!--s-->
 
+# Pascal's Triangle
+
 $$
-      \begin{gather}a\\\a+b\\\a+b+c\end{gather}
+  \begin{gather}1\\\1 + 1\\\1 + 2 + 1\\\1 + 3 + 3 + 1\\\1 + 4 + 6 + 4 + 1\end{gather}
 $$
 
 <!--s-->
@@ -43,10 +45,10 @@ $$
 # Equations
 
 $$
-      \eqalign{
-      y &= 3x - 4\cr
-      &= 3(-2y) - 4\cr
-      &= -6y - 4\cr
-      &= -2(y + 2)\cr
-      }
+  \eqalign{
+  y &= 3x - 4\cr
+  &= 3(-2y) - 4\cr
+  &= -6y - 4\cr
+  &= -2(y + 2)\cr
+  }
 $$
