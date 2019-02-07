@@ -9,8 +9,8 @@ revealOptions:
 
 # Agenda
 
-* [housekeeping](agenda/housekeeping.md)
-* [back](./title.md)
+* [housekeeping](./agenda/housekeeping.md)
+* [back](title.md)
  
 &nbsp;
 &nbsp;
