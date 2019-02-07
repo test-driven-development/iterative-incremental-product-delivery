@@ -559,6 +559,11 @@ detect-libc@^1.0.2:
   resolved "https://registry.yarnpkg.com/detect-libc/-/detect-libc-1.0.3.tgz#fa137c4bd698edf55cd5cd02ac559f91a4c4ba9b"
   integrity sha1-+hN8S9aY7fVc1c0CrFWfkaTEups=
 
+diff-so-fancy@1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/diff-so-fancy/-/diff-so-fancy-1.2.0.tgz#dfcca33b82dbf446965acc6fee97291fe69d8a56"
+  integrity sha512-lYH/aMMRPnFvi3WSxPyKjSBqTbCUdAlxFnHF1p2r3MpFZE+eyLdDTy9YNCF+hgDYnEyvuh2rsdcVwi4sKyCSYA==
+
 duplexer3@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/duplexer3/-/duplexer3-0.1.4.tgz#ee01dd1cac0ed3cbc7fdbea37dc0a8f1ce002ce2"
