@@ -9,8 +9,8 @@
     "yarn": "1.12.3"
   },
   "scripts": {
-    "build": "reveal-md slides.md",
-    "deploy": "yarn build --static docs --static-dirs=resources",
+    "build": "reveal-md slides.md --assets-dir resources",
+    "deploy": "reveal-md slides.md --static docs --static-dirs=resources",
     "start": "yarn build -w"
   },
   "repository": {
@@ -25,6 +25,6 @@
   "homepage": "https://github.com/test-driven-development/iterative-incremental-product-delivery#readme",
   "devDependencies": {
     "diff-so-fancy": "1.2.0",
-    "reveal-md": "2.1.2"
+    "reveal-md": "3.0.0-1"
   }
 }
