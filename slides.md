@@ -8,7 +8,7 @@ revealOptions:
 ---
 # Seats Iterative and Incremental Product Delivery
 
-* [agenda](./resources/agenda.md)
+* [agenda](resources/agenda.md)
 
 <img class="plain" height="65%" width="65%" src="resources/images/wil.png" /> 
 
