@@ -9,7 +9,7 @@
     "yarn": "1.12.3"
   },
   "scripts": {
-    "build": "reveal-md resources/title.md",
+    "build": "reveal-md title.md",
     "deploy": "yarn build --static docs --static-dirs=resources",
     "start": "yarn build -w"
   },
